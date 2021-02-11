@@ -4,6 +4,7 @@ export const AboutScreem = () => {
   return (
     <div>
       <h1>AboutScreem</h1>
+      <hr />
     </div>
   );
 };
